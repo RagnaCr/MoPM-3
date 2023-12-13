@@ -1,0 +1,14 @@
+F:\Git\MoPM-3\bin\Debug\netcoreapp3.1\MoPM-3.exe
+F:\Git\MoPM-3\bin\Debug\netcoreapp3.1\MoPM-3.deps.json
+F:\Git\MoPM-3\bin\Debug\netcoreapp3.1\MoPM-3.runtimeconfig.json
+F:\Git\MoPM-3\bin\Debug\netcoreapp3.1\MoPM-3.runtimeconfig.dev.json
+F:\Git\MoPM-3\bin\Debug\netcoreapp3.1\MoPM-3.dll
+F:\Git\MoPM-3\bin\Debug\netcoreapp3.1\MoPM-3.pdb
+F:\Git\MoPM-3\obj\Debug\netcoreapp3.1\MoPM-3.csproj.AssemblyReference.cache
+F:\Git\MoPM-3\obj\Debug\netcoreapp3.1\MoPM-3.GeneratedMSBuildEditorConfig.editorconfig
+F:\Git\MoPM-3\obj\Debug\netcoreapp3.1\MoPM-3.AssemblyInfoInputs.cache
+F:\Git\MoPM-3\obj\Debug\netcoreapp3.1\MoPM-3.AssemblyInfo.cs
+F:\Git\MoPM-3\obj\Debug\netcoreapp3.1\MoPM-3.csproj.CoreCompileInputs.cache
+F:\Git\MoPM-3\obj\Debug\netcoreapp3.1\MoPM-3.dll
+F:\Git\MoPM-3\obj\Debug\netcoreapp3.1\MoPM-3.pdb
+F:\Git\MoPM-3\obj\Debug\netcoreapp3.1\MoPM-3.genruntimeconfig.cache
